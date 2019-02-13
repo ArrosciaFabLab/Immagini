@@ -1,5 +1,12 @@
 # Immagini
 
+![](https://img.shields.io/github/stars/ArrosciaFabLab/Immagini.svg?style=flat)
+![](https://img.shields.io/github/watchers/ArrosciaFabLab/Immagini.svg?style=flat)
+![](https://img.shields.io/github/forks/ArrosciaFabLab/Immagini.svg?style=flat)
+
+![](https://img.shields.io/github/commits-since/ArrosciaFabLab/Immagini/1.0.0.svg?style=flat)
+![](https://img.shields.io/github/last-commit/ArrosciaFabLab/Immagini.svg?style=flat)
+
 Benvenuto sulla sezione che ospita le foto, le immagini, gli schemi, i disegni e i loghi che l'Arroscia FabLab rende disponibili a tutti i suoi iscritti!
 
 # Termini dell'utilizzo
